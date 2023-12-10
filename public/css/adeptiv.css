@@ -1,0 +1,228 @@
+@media screen and (max-width: 1340px) {
+    .strips, .strips-tw {
+        padding: 0px 30px 0 30px;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .active {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .slide-indicators {
+        position: static;
+    }
+
+    .indicator {
+        width: 22px;
+        height: 23px;
+        margin: 25px 18px 0 18px;
+    }
+
+    .information-slide {
+        text-align: center;
+    }
+
+    .partner__logo img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 40px;
+    }
+}
+
+@media screen and (max-width: 1220px) {
+    .adeptiv-del {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .image-mrbeast-container {
+        display: none;
+    }
+
+    .pereview {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .mask-image {
+        display: none;
+    }
+
+    .ouradventeges__title {
+        text-align: center;
+    }
+
+    .w-1220 {
+        display: none;
+    }
+
+    .join-investment {
+        padding: 0 0 0 72px;
+    }
+}
+
+@media screen and (max-width: 945px) {
+    .partner {
+        height: 55px;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .adeptiv-920 {
+        display: none;
+    }
+
+    .image-slide img {
+        max-width: 500px;
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .w-900 {
+        display: none;
+    }
+
+    .join-investment {
+        text-align: center;
+    }
+
+    .all-joint-investments__title {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .pereview__text {
+        font-size: 100px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .block-investmens__head {
+        padding: 0;
+    }
+
+    .investment {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .strips-tw, .strips {
+        display: none;
+    }
+
+    .navigation {
+        gap: 25px;
+    }
+
+    .modal-window {
+        top: 60%;
+        right: 0;
+    }
+}
+
+@media screen and (max-width: 610px) {
+    .pereview__text {
+      font-size: 75px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .partner-funds__title {
+        text-align: center;
+    }
+
+    .join-investment {
+        min-width: 140px;
+        padding: 0;
+        text-align: start;
+    }
+
+    .image-slide img {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 530px) {
+    .card-rfy {
+        width: 350px;
+    }
+
+    .card-rfy__upper, .card-rfy__bottom {
+        width: 300px;
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .w-img {
+        max-width: 280px;
+        width: auto;
+    }
+
+    .network-block {
+        min-height: 800px;
+    }
+
+    .mymedia {
+        padding: 0 2px 0 2px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+
+    .pereview__text {
+        font-size: 65px;
+        width: 350px;
+    }
+    
+    .card-rfy {
+        box-shadow: none;
+        background: none;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .w-img {
+        width: 250px;
+    }
+
+    .video-blocks {
+        justify-content: center;
+    }
+
+    .network-block {
+        max-width: 330px;
+        min-height: 730px;
+        height: auto;
+    }
+
+    .twitter-content img {
+        width: 250px;   
+    }
+    
+    .media__title {
+        text-align: center;
+    }
+
+    .ouradventeges__title {
+        font-size: 55px;
+    }
+
+    .block-investments {
+        padding: 62px 13px 0px 18px;
+    }
+
+    .image-slide img {
+        max-width: 315px;
+    }
+}
